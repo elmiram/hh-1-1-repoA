@@ -1,1 +1,4 @@
+
 changed file C in repo B 678 910
+changed line 1 in repo A 123 456
+resolved conflict
